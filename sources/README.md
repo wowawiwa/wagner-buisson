@@ -1,0 +1,5 @@
+- `1 - Original de la BnF.pdf` – Source téléchargée depuis le site de la BnF.
+  - Web page: https://gallica.bnf.fr/ark:/12148/bpt6k699972/
+  - PDF: https://gallica.bnf.fr/ark:/12148/bpt6k699972/f1n203.pdf
+  - Nom de fichier original: `Libre-pensée_et_protestantisme_libéral___[...]Buisson_Ferdinand_bpt6k699972`
+- `2 - Raw markdown.md` - Markdown obtenu en processant la source avec Gemini.
