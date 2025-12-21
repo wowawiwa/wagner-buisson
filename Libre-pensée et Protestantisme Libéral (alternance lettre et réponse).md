@@ -2,6 +2,8 @@
 
 **par FERDINAND BUISSON et CHARLES WAGNER**
 
+_(Lettres et réponses alternées)_
+
 ---
 
 - [EN VENTE](#en-vente)
