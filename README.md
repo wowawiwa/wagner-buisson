@@ -1,4 +1,7 @@
-Ce site propose une édition numérique et une exploration assistée par l'intelligence artificielle de la correspondance entre Ferdinand Buisson (figure de la laïcité) et Charles Wagner (pasteur libéral) publiée dans l'ouvrage **_Libre-pensée et protestantisme libéral (Éd. 1903)_**.
+Ce site propose une édition numérique et une exploration assistée par l'intelligence artificielle de la correspondance entre Ferdinand Buisson (figure de la laïcité) et Charles Wagner (pasteur libéral) publiée dans l'ouvrage:
+
+# **_Libre-pensée et protestantisme libéral (Éd. 1903)_**
+{: style="text-align: center;"}
 
 ## Lire l'ouvrage
 
