@@ -1,4 +1,5 @@
 url: "https://wagner.ohcharles.net"
+favicon_ico: "/favicon.png"
 theme: jekyll-theme-minimal
 title: "Wagner & Buisson"
 description: "Numérisation et analyse par IA de la correspondance entre Ferdinand Buisson et Charles Wagner (1903)."
