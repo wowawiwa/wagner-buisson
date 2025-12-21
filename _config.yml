@@ -1,0 +1,7 @@
+# url: "https://wagner.ohcharles.net"
+theme: jekyll-theme-minimal
+title: "Wagner & Buisson"
+description: "Numérisation et analyse par IA de la correspondance entre Ferdinand Buisson et Charles Wagner (1903)."
+
+# Optionnel : permet d'avoir des liens propres, mais tolère mal les liens avec parenthèses
+# permalink: pretty
